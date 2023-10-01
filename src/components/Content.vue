@@ -5,7 +5,7 @@
   <section class="content-fotgraf">
     <div class="img-box">
       <img
-        src="../assets/fotgraf_img_1.JPG"
+        src="../assets/fotgraf.JPG"
         alt="Dokumentasi Materi Fotografi"
         width="500px"
       />
@@ -31,7 +31,7 @@
     </div>
     <div class="img-box">
       <img
-        src="../assets/jurnalistik_img_1.JPG"
+        src="../assets/jurnalistik.JPG"
         alt="Dokumentasi Materi Fotografi"
         width="500px"
       />
@@ -40,7 +40,7 @@
   <section class="content-webdev">
     <div class="img-box">
       <img
-        src="../assets/webdev_img_1.JPG"
+        src="../assets/webdev.JPG"
         alt="Dokumentasi Materi Fotografi"
         width="500px"
       />
@@ -65,7 +65,7 @@
     </div>
     <div class="img-box">
       <img
-        src="../assets/desain_img_1.JPG"
+        src="../assets/design_1.JPG"
         alt="Dokumentasi Materi Fotografi"
         width="500px"
       />
@@ -74,7 +74,7 @@
   <section class="content-nulis">
     <div class="img-box">
       <img
-        src="../assets/nulis_img_1.JPG"
+        src="../assets/penulisan.JPG"
         alt="Dokumentasi Materi Fotografi"
         width="500px"
       />
